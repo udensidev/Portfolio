@@ -1,3 +1,3 @@
 # Portfolio
 
-#[Personal Projects](#personal-projects)
+[Personal Projects](#personal-projects)
